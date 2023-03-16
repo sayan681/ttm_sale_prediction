@@ -1,0 +1,159 @@
+Restaurant Name,Dish Name,Price of the food,Cost of making the food,Number of dishes sold
+Cafe Bistro,Caesar Salad,12.99,6.00,75
+Cafe Bistro,Grilled Chicken Sandwich,14.99,7.00,60
+Cafe Bistro,French Onion Soup,9.99,4.50,80
+Cafe Bistro,Steak Frites,24.99,11.00,45
+Cafe Bistro,Crème Brûlée,7.99,3.50,100
+La Cucina Italiana,Spaghetti Carbonara,18.99,8.50,50
+La Cucina Italiana,Margherita Pizza,16.99,7.50,65
+La Cucina Italiana,Tiramisu,8.99,3.75,90
+La Cucina Italiana,Lasagna,19.99,9.00,40
+La Cucina Italiana,Bruschetta,7.99,3.00,55
+Le Restaurant Francais,French Onion Soup,10.99,5.00,70
+Le Restaurant Francais,Beef Bourguignon,23.99,10.50,50
+Le Restaurant Francais,Crème Brûlée,8.99,4.00,85
+Le Restaurant Francais,Quiche Lorraine,12.99,5.50,60
+Le Restaurant Francais,Croque Monsieur,9.99,4.00,75
+Cantina Mexicana,Tacos al Pastor,12.99,6.00,70
+Cantina Mexicana,Enchiladas Verdes,14.99,6.50,55
+Cantina Mexicana,Chiles Rellenos,16.99,7.50,45
+Cantina Mexicana,Guacamole and Chips,8.99,3.50,90
+Cantina Mexicana,Flan,6.99,2.50,110
+Thai Noodle House,Pad Thai,12.99,5.50,65
+Thai Noodle House,Green Curry,14.99,6.50,50
+Thai Noodle House,Tom Yum Soup,9.99,4.00,75
+Thai Noodle House,Pad See Ew,12.99,5.50,60
+Thai Noodle House,Mango Sticky Rice,7.99,2.50,120
+The Steakhouse,Ribeye Steak,29.99,12.00,40
+The Steakhouse,Filet Mignon,34.99,14.00,35
+The Steakhouse,New York Strip Steak,27.99,11.00,45
+The Steakhouse,Prime Rib,32.99,13.00,40
+The Steakhouse,Caesar Salad,10.99,4.50,75
+The Burger Joint,Bacon Cheeseburger,12.99,6.00,70
+The Burger Joint,Mushroom Swiss Burger,13.99,6.50,60
+The Burger Joint,Classic Hamburger,10.99,5.00,80
+The Burger Joint,Chicken Sandwich,9.99,4.50,90
+The Burger Joint,Fries,4.99,1.50,200
+Sushi Bar,Tuna Roll,9.99,4.50,85
+Sushi Bar,California Roll,11.99,5.50,70
+Sushi Bar,Salmon Sashimi,14.99,6.50,55
+Sushi Bar,Miso Soup,4.99,1.50,120
+The Indian Kitchen,Butter Chicken,15.99,7.00,60
+The Indian Kitchen,Naan Bread,3.99,1.50,150
+The Indian Kitchen,Samosas,7.99,3.50,80
+The Indian Kitchen,Chicken Tikka Masala,16.99,7.50,50
+The Indian Kitchen,Biryani,18.99,8.50,45
+The Seafood Shack,Lobster Roll,19.99,8.50,50
+The Seafood Shack,Fish and Chips,14.99,6.50,65
+The Seafood Shack,Clam Chowder,9.99,4.50,85
+The Seafood Shack,Shrimp Scampi,18.99,8.50,40
+The Seafood Shack,Grilled Salmon,22.99,10.50,35
+The Vegetarian Cafe,Spinach and Feta Quiche,11.99,5.50,70
+The Vegetarian Cafe,Avocado Toast,9.99,4.50,90
+The Vegetarian Cafe,Cauliflower Rice Bowl,12.99,6.00,65
+The Vegetarian Cafe,Black Bean Burger,10.99,5.00,80
+The Vegetarian Cafe,Green Smoothie,6.99,2.50,120
+The Japanese Grill,Chicken Teriyaki,14.99,6.50,60
+The Japanese Grill,Beef Yakitori,16.99,7.50,50
+The Japanese Grill,Shrimp Tempura,18.99,8.50,45
+The Japanese Grill,Vegetable Fried Rice,12.99,5.50,70
+The Japanese Grill,Miso Soup,4.99,1.50,120
+The French Bakery,Croissant,3.99,1.50,150
+The French Bakery,Pain au Chocolat,4.99,2.00,120
+The French Bakery,Macarons,2.99,1.00,200
+The French Bakery,Baguette,3.99,1.50,150
+The French Bakery,Quiche Lorraine,12.99,5.50,60
+The Steak and Seafood House,Filet Mignon,39.99,16.00,30
+The Steak and Seafood House,Lobster Tail,29.99,12.00,40
+The Steak and Seafood House,Surf and Turf,44.99,18.00,25
+The Steak and Seafood House,Crab Cakes,24.99,10.50,50
+The Steak and Seafood House,New York Strip Steak,34.99,14.00,35
+The Vegan Spot,Jackfruit Tacos,12.99,6.00,70
+The Vegan Spot,Beyond Burger,10.99,5.00,80
+The Vegan Spot,Chickpea Curry,14.99,6.50,60
+The Vegan Spot,Raw Pad Thai,11.99,5.50,75
+The Vegan Spot,Green Smoothie Bowl,8.99,3.50,100
+The BBQ Joint,Pulled Pork Sandwich,13.99,6.50,60
+The BBQ Joint,Brisket,18.99,8.50,45
+The BBQ Joint,Ribs,24.99,11.00,35
+The BBQ Joint,Mac and Cheese,7.99,3.50,100
+The BBQ Joint,Cornbread,4.99,1.50,120
+The Italian Trattoria,Spaghetti and Meatballs,15.99,7.00,60
+The Italian Trattoria,Chicken Parmesan,17.99,8.00,50
+The Italian Trattoria,Lasagna,18.99,8.50,45
+The Italian Trattoria,Minestrone Soup,8.99,3.50,100
+The Italian Trattoria,Tiramisu,9.99,4.50,80
+The Mexican Cantina,Tacos al Pastor,12.99,6.00,70
+The Mexican Cantina,Guacamole,7.99,3.50,100
+The Mexican Cantina,Enchiladas,15.99,7.00,60
+The Mexican Cantina,Quesadilla,10.99,5.00,80
+The Mexican Cantina,Margarita,9.99,4.50,90
+The Thai Kitchen,Pad Thai,13.99,6.50,60
+The Thai Kitchen,Green Curry,14.99,6.50,60
+The Thai Kitchen,Panang Curry,14.99,6.50,60
+The Thai Kitchen,Tom Yum Soup,9.99,4.50,85
+The Thai Kitchen,Mango Sticky Rice,8.99,3.50,100
+The Greek Taverna,Gyro,10.99,5.00,80
+The Greek Taverna,Moussaka,12.99,6.00,70
+The Greek Taverna,Tzatziki,5.99,2.50,130
+The Greek Taverna,Dolmades,7.99,3.50,90
+The Greek Taverna,Baklava,6.99,3.00,110
+The Chinese Dumpling House,Xiao Long Bao,11.99,5.50,75
+The Chinese Dumpling House,Scallion Pancakes,7.99,3.50,100
+The Chinese Dumpling House,Hot and Sour Soup,8.99,3.50,100
+The Chinese Dumpling House,Kung Pao Chicken,14.99,6.50,60
+The Chinese Dumpling House,Beef Chow Fun,15.99,7.00,55
+The Spanish Tapas Bar,Patatas Bravas,8.99,3.50,100
+The Spanish Tapas Bar,Chorizo,9.99,4.50,80
+The Spanish Tapas Bar,Gambas al Ajillo,12.99,6.00,70
+The Spanish Tapas Bar,Tortilla Española,10.99,5.00,80
+The Spanish Tapas Bar,Sangria,9.99,4.50,90
+The Korean BBQ,Korean Fried Chicken,16.99,7.50,50
+The Korean BBQ,Bibimbap,13.99,6.50,60
+The Korean BBQ,Kimchi Stew,12.99,6.00,70
+The Korean BBQ,Japchae,11.99,5.50,75
+The Korean BBQ,Banchan,6.99,2.50,120
+The Pizza Place,Pepperoni Pizza,14.99,6.50,60
+The Pizza Place,Margherita Pizza,12.99,5.50,70
+The Pizza Place,Hawaiian Pizza,15.99,7.00,55
+The Pizza Place,Meat Lovers Pizza,16.99,8.00,45
+The Pizza Place,Greek Pizza,13.99,6.50,60
+The Indian Curry House,Chicken Tikka Masala,15.99,7.00,60
+The Indian Curry House,Saag Paneer,13.99,6.50,70
+The Indian Curry House,Chana Masala,12.99,5.50,75
+The Indian Curry House,Naan,3.99,1.50,120
+The Indian Curry House,Mango Lassi,4.99,2.00,100
+The French Bistro,Steak Frites,22.99,10.00,40
+The French Bistro,Coq au Vin,18.99,8.50,45
+The French Bistro,Escargots,12.99,5.50,75
+The French Bistro,Quiche Lorraine,9.99,4.00,90
+The French Bistro,Chocolate Mousse,8.99,3.50,100
+The Lebanese Grill,Shawarma,13.99,6.50,60
+The Lebanese Grill,Baba Ghanoush,7.99,3.50,100
+The Lebanese Grill,Hummus,7.99,3.50,100
+The Lebanese Grill,Kafta,14.99,6.50,60
+The Lebanese Grill,Falafel,8.99,3.50,100
+The Ethiopian Restaurant,Doro Wat,13.99,6.50,60
+The Ethiopian Restaurant,Tibs,12.99,5.50,70
+The Ethiopian Restaurant,Kitfo,15.99,7.00,55
+The Ethiopian Restaurant,Injera,4.99,2.00,100
+The Ethiopian Restaurant,Teff,5.99,2.50,130
+The Japanese Sushi Bar,Sashimi,18.99,8.50,45
+The Japanese Sushi Bar,Nigiri,16.99,7.50,50
+The Japanese Sushi Bar,Maki Rolls,14.99,6.50,60
+The Japanese Sushi Bar,Tempura,12.99,5.50,75
+The Japanese Sushi Bar,Miso Soup,5.99,2.50,130
+The Vietnamese Pho House,Pho,11.99,5.50,75
+The Vietnamese Pho House,Banh Mi,8.99,3.50,100
+The Vietnamese Pho House,Bun Cha,12.99,5.50,75
+The Vietnamese Pho House,Goi Cuon,7.99,3.00,110
+The Vietnamese Pho House,Ca Phe Sua Da,4.99,2.00,100
+The Vegetarian Cafe,Portobello Burger,9.99,4.50,80
+The Vegetarian Cafe,Quinoa Bowl,12.99,5.50,70
+The Vegetarian Cafe,Chickpea Curry,13.99,6.50,60
+The Vegetarian Cafe,Caprese Salad,8.99,3.50,100
+The Vegetarian Cafe,Green Juice,6.99,2.50,130
+The Steakhouse,Ribeye Steak,29.99,12.00,35
+The Steakhouse,Filet Mignon,32.99,14.00,30
+The Steakhouse,New York Strip,27.99,11.00,40
+The Steakhouse,Caesar Salad,9.99,4.00,90
