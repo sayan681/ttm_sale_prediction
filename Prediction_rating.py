@@ -12,7 +12,7 @@ st.set_page_config(page_title="Food Sales Prediction",
                    page_icon=":pizza:", layout="wide")
 st.title("Food Sales Prediction")
 
-st.markdown("*This app predicts the number of times a new food item is likely to be sold based on its price and rating, using a more advanced and optimized KMeans clustering algorithm by Intel(R) Extension for Scikit-learn enabled (https://github.com/intel/scikit-learn-intelex)*")
+st.markdown("*This prediction model predicts the number of times a new food item is likely to be sold based on its price and rating, using a more advanced and optimized KMeans clustering algorithm by Intel(R) Extension for Scikit-learn enabled (https://github.com/intel/scikit-learn-intelex)*")
 
 # Load the dataset
 data = pd.read_csv(r'food.csv')
@@ -25,7 +25,7 @@ scaler = StandardScaler()
 features_scaled = scaler.fit_transform(features)
 features_scaled = pd.DataFrame(features_scaled, columns=features.columns)
 
-# Train the KMeans model
+# Use the Intel optimized version of KMeans
 kmeans = KMeans(n_clusters=2, init='k-means++', n_init=10,
                 max_iter=300, algorithm='lloyd')
 kmeans.fit(features_scaled)
